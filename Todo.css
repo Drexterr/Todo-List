@@ -1,0 +1,54 @@
+.heading {
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: bold;
+color: black;
+}
+
+#body{
+    background-color: rgb(255, 255, 255);
+}
+
+button{
+    box-align: center;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+
+section{
+
+    text-align: center;
+}
+
+#div1{
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+width: 30%;
+
+    padding-top: 3%;
+    
+    padding-bottom: 5%;
+    
+}
+
+ul li{
+    text-align: justify;
+    border: 1px solid;
+    list-style-type: none;
+    border-radius: 5px;
+        padding-top: 5%;
+        padding-left: 2%;
+        padding-bottom: 5%;
+        margin-bottom: 5%;
+       
+}
+
+#divinput{
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+}
